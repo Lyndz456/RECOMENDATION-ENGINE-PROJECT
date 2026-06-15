@@ -19,13 +19,6 @@ This repository hosts the source code, documentation, and project management art
 - **Dissemination** – Financial institutions and researchers can adapt the code
 - **Transparency** – Examiners and stakeholders can track development progress
 
-## Project Links
-
-| Item | Link |
-|------|------|
-| Source Code | https://github.com/[your-username]/financial-recommendation-system |
-| Project Board | https://github.com/users/[your-username]/projects/[project-number] |
-| Supervisor | course-files (collaborator) |
 
 ## Project Management
 
